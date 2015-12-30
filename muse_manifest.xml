@@ -1,0 +1,42 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="241450331"/>
+    <file name="master_a-master.css" crc="325796237" ref="contact:practice-areas:index"/>
+    <file name="contact.css" crc="4098193940" ref="contact"/>
+    <file name="practice-areas.css" crc="115970368" ref="practice-areas"/>
+    <file name="index.css" crc="145054734" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>area-1:phone>area-2:phone>area-3:phone>area-4:index:practice-areas:contact"/>
+    <file name="museutils.js" crc="4291592202" ref="phone>index:phone>area-1:phone>area-2:phone>area-3:phone>area-4:index:practice-areas:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index:phone>area-1:phone>area-2:phone>area-3:phone>area-4:index:practice-areas:contact"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="phone>index:phone>area-1:phone>area-2:phone>area-3:phone>area-4:index:practice-areas:contact"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>index:practice-areas"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="phone>index"/>
+    <file name="museredirect.js" crc="4101519497" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:practice-areas:contact"/>
+    <file name="pie.js" crc="3827607177" ref="practice-areas"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="practice-areas"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="practice-areas"/>
+    <file name="touchswipe.js" crc="4156838003" ref="practice-areas"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="195118072" ref="phone>index"/>
+      <file name="master_b-master.css" crc="3926904061" ref="phone>area-2:phone>area-3:phone>area-4:phone>area-1"/>
+      <file name="area-2.css" crc="76904735" ref="phone>area-2"/>
+      <file name="index.css" crc="152421693" ref="phone>index"/>
+      <file name="area-3.css" crc="236921635" ref="phone>area-3"/>
+      <file name="area-4.css" crc="437658024" ref="phone>area-4"/>
+      <file name="area-1.css" crc="309673760" ref="phone>area-1"/>
+    </folder>
+    <file name="index.html" crc="187332546" mt="1401673464414" redirect="true"/>
+    <file name="area-1.html" crc="118699344" mt="1401673453944" redirect="true"/>
+    <file name="area-2.html" crc="4008827924" mt="1401673453946" redirect="true"/>
+    <file name="area-3.html" crc="3927245505" mt="1401673453947" redirect="true"/>
+    <file name="area-4.html" crc="3948119535" mt="1401673453949" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4273542406" mt="1401669419572" redirect="true"/>
+  <file name="practice-areas.html" crc="74133304" mt="1401669419574" redirect="true"/>
+  <file name="contact.html" crc="4221286165" mt="1401669419576" redirect="true"/>
+</manifest>
